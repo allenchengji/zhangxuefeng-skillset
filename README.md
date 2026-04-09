@@ -139,7 +139,7 @@ zhangxuefeng-skillset/
 
 扫码加入社区，一起完善知识库、分享真实志愿填报案例。
 
-<img src="assets/wechat-group-qr.jpg" alt="微信群二维码" width="240" />
+<img src="assets/wechat_qr.jpg" alt="微信群二维码" width="240" />
 
 > 二维码定期更新。如已过期，请提 [Issue](../../issues) 或在现有群中 @管理员获取新码。
 
