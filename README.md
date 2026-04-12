@@ -75,6 +75,8 @@ openclaw skills install ./skills/gaokao-mentor.skill
 openclaw skills list
 ```
 
+或者直接从clawhub下载： https://clawhub.ai/eric-yibo-shen/zhangxuefeng
+
 部署后在微信/企业微信中 `@机器人` 直接对话即可。详见 [部署指南](deploy/DEPLOY.md)。
 
 ### 方式三：导入 RAG 平台
